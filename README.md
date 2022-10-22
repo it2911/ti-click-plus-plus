@@ -1,14 +1,14 @@
  [![hugo + netlify](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1656562989/template_1_edyp8b.png)](https://ntl.fyi/3P9w1mr)
 
-# Hugo Quickstart Template   
+# Welcome to TiDB plant
 
-This is a bare-bones Hugo project that has everything you need to quickly deploy it to [Netlify](https://netlify.com). 
+*This project base Ti-Click project technology*
 
-Hate reading, here's a video: https://youtu.be/t-tsRxxYdpk
+## Real World
+### About Real World example app
+See how the exact same application is built using different libraries and frameworks.
 
-Love reading, here's blog post: https://www.netlify.com/blog/deploy-your-hugo-app-quick/
-
-## Table of Contents:
+[!real_world]()
 
 - [Quick Setup + Deploy Option](#quick-setup--deploy-option)
 - [Regular Setup](#regular-setup)

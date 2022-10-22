@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'http://ti-click.com'
 languageCode = 'en-us'
-title = 'Netlify + Hugo Quickstart'
+title = 'Ti-Click'
 theme = 'netlify-basic'
